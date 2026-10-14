@@ -1,0 +1,16 @@
+{
+  "name": "Hello World Agent",
+  "description": "A simple agent that says hello.",
+  "url": "http://localhost:5000",
+  "version": "1.0.0",
+  "capabilities": {},
+  "skills": [
+    {
+      "id": "hello_world",
+      "name": "Hello World",
+      "description": "Greets the user."
+    }
+  ],
+  "defaultInputModes": ["text"],
+  "defaultOutputModes": ["text"]
+}
